@@ -452,7 +452,7 @@
                         <div class="text-white">Sales</div>
                       </div>
                     </div>
-                    <!--end::Row-->
+                    <!--end::Row--> 
                   </div>
                 </div>
               </div>

@@ -4,7 +4,7 @@ session_start();
 $host = "localhost";
 $user = "root";
 $pass = "";
-$dbname = "users";
+$dbname = "users"; 
 
 $con = mysqli_connect($host,$user,$pass,$dbname);
 if (mysqli_connect_errno()){

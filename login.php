@@ -4,7 +4,7 @@ if(empty($_SESSION['username'])){
   header(header: 'location:../AdminLTE/login.php');
 }
 ?>
-<!doctype html>
+<!doctype html> 
 <html lang="en">
 
 <head>

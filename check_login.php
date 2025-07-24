@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Login Status</title>
-  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script> 
 </head>
 
 <body>

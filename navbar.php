@@ -204,7 +204,7 @@
                 <!--end::Menu Footer-->
               </ul>
             </li>
-            <!--end::User Menu Dropdown-->
+            <!--end::User Menu Dropdown--> 
           </ul>
           <!--end::End Navbar Links-->
         </div>

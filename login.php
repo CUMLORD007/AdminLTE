@@ -1,9 +1,4 @@
-<?php
-require '../AdminLTE/connect.php';
-if(empty($_SESSION['username'])){
-  header(header: 'location:../AdminLTE/login.php');
-}
-?>
+
 <!doctype html> 
 <html lang="en">
 

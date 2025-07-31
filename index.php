@@ -1,9 +1,10 @@
+
 <!doctype html>
-<html lang="en"> 
+<html lang="en">
   <!--begin::Head-->
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>AdminLTE v4 | Dashboard</title> 
+    <title>AdminLTE v4 | Dashboard</title>
 
     <!--begin::Accessibility Meta Tags-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
@@ -84,15 +85,18 @@
     <!--begin::App Wrapper-->
     <div class="app-wrapper">
       <!--begin::Header-->
-      <?php include 'navbar.php'; ?>
+      <?php include 'navbar.php' ?>
+      <!--end::Header-->
+      <!--begin::Sidebar-->
+      <?php include 'sidebar.php' ?>
       <!--end::Sidebar-->
-      <?php include 'sidebar.php'; ?>
       <!--begin::App Main-->
       <main class="app-main">
+        <?php ?>
       </main>
       <!--end::App Main-->
       <!--begin::Footer-->
-      <?php include 'footer.php'; ?>
+      <?php include 'footer.php' ?>
       <!--end::Footer-->
     </div>
     <!--end::App Wrapper-->
